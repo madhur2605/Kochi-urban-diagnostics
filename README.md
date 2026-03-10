@@ -1,5 +1,10 @@
+<div align="center">
+
 # 🏙️ Kochi Urban Diagnostics
+
 **Urban Immersion Program | TISS × KMC × GIZ | September 2025**
+
+</div>
 
 ***Index Map Suite***
 
