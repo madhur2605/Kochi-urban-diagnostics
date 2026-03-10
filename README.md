@@ -10,6 +10,8 @@ Each map visualises a distinct dimension of urban health infrastructure and serv
 
 ## 🗺️ Map Index
 
+### 🏥 Healthcare Facilities
+
 | # | Map | Description | Live Link |
 |---|-----|-------------|-----------|
 | 1 | **All Facilities Map** | Consolidated view of all healthcare facilities across Kochi | [View Map](https://madhur2605.github.io/Healthcare_All-facilities/) |
@@ -19,9 +21,13 @@ Each map visualises a distinct dimension of urban health infrastructure and serv
 | 5 | **Community Health Index** | Community-level health indicators aggregated by ward | [View Map](https://madhur2605.github.io/Healthcare_Community-Health-Index/) |
 | 6 | **Health Coverage Index** | Population coverage and reach of health services | [View Map](https://madhur2605.github.io/Health-coverage-index-map/) |
 | 7 | **Infrastructure & Service Index** | Physical infrastructure quality and service availability | [View Map](https://madhur2605.github.io/Healthcare_infrastructure-and-service-index-map/) |
-**Waste Management workers - Haritha Karma Sena (HKS)**
-| 1 | **Operational Capacity Index (HKS)** | Operational throughout and capacity of Haritha Karma Sena | [View Map](https://madhur2605.github.io/HKS_Operational-Capacity-Index-Map/) |
-| 2 | **Working Condition Index (HKS)** | Staff and working condition indicators for HKS | [View Map](https://madhur2605.github.io/HKS_working-condition-index-map/) |
+
+### 🌿 Waste Management Workers — Haritha Karma Sena (HKS)
+
+| # | Map | Description | Live Link |
+|---|-----|-------------|-----------|
+| 1 | **Operational Capacity Index** | Operational throughput and capacity of Haritha Karma Sena | [View Map](https://madhur2605.github.io/HKS_Operational-Capacity-Index-Map/) |
+| 2 | **Working Condition Index** | Staff and working condition indicators for HKS | [View Map](https://madhur2605.github.io/HKS_working-condition-index-map/) |
 
 ---
 
