@@ -11,12 +11,12 @@
 | Document | Description | Link |
 |---|---|---|
 | 📋 Fieldwork Report | Full urban immersion report | [View PDF](https://drive.google.com/file/d/1BsepYTHh6Jt45BoZ1JJsJUuTqqJ-HU5K/view?usp=sharing) |
-| 📑 Case Study | Kudumbashree Enterprise — Failed Printing Press Case Study | [View PDF](https://drive.google.com/file/d/1GtkhaPkf3W08mSF6muolkKkN84wvksyJ/view?usp=sharing) |
+| 📑 Case Study | Kudumbashree — Failed Printing Press Case Study | [View PDF](https://drive.google.com/file/d/1GtkhaPkf3W08mSF6muolkKkN84wvksyJ/view?usp=sharing) |
 | 🗺️ Outputs | Composite Spatial & Visual outputs | [View Outputs](https://drive.google.com/drive/folders/13fb2KakuNX54uO22Q6aZC7OxyuRHrE_T?usp=sharing) |
 
 ***Index Map Suite***
 
-Ward-level spatial index maps developed for Kochi Municipal Corporation (KMC) in collaboration with GIZ.
+Ward-level spatial index maps developed to inform decision-making of Kochi Municipal Corporation (KMC).
 Each map visualises a distinct dimension of urban health infrastructure and service accessibility across Kochi's wards.
 
 ---
