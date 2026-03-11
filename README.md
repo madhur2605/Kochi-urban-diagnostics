@@ -6,6 +6,13 @@
 
 </div>
 
+***Fieldwork Documents***
+
+| Document | Description | Link |
+|---|---|---|
+| 📋 Fieldwork Report | Full urban immersion report | [View PDF](https://drive.google.com/file/d/1BsepYTHh6Jt45BoZ1JJsJUuTqqJ-HU5K/view?usp=sharing) |
+| 🗺️ Outputs | Composite Spatial & Visual outputs | [View Outputs](https://drive.google.com/drive/folders/13fb2KakuNX54uO22Q6aZC7OxyuRHrE_T?usp=sharing) |
+
 ***Index Map Suite***
 
 Ward-level spatial index maps developed for Kochi Municipal Corporation (KMC) in collaboration with GIZ.
